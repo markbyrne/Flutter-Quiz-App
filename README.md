@@ -1,16 +1,17 @@
-# quiz_app
+## Flutter Quiz App Demo
 
-A new Flutter project.
+This project is a basic **cross-platform Quiz App** demo, developed using **Flutter** and coded in **Dart**.  
+The current question database is loaded with Flutter quiz questions, but it can be easily converted to other topics.  
 
-## Getting Started
+The demo is hosted on **Firebase** — check out the live Quiz Web App [here](https://flutter-quiz-app-demo-rugburn.web.app/).  
 
-This project is a starting point for a Flutter application.
+This project also makes use of **unit testing** to ensure that navigation, structure, and behavior function as expected with any future changes.  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Skills Demonstrated
+- **Firebase** Hosting  
+- **Cross-Platform** Development  
+- **Web App Deployment**  
+- **Stateless** and **Stateful Widgets**  
+- **Unit Testing** using the `flutter_test` Testing Suite
